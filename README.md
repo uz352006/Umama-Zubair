@@ -23,7 +23,7 @@ Hi there! I'm Umama Zubair — a first-semester Computer Science student with a 
 
 ---
 
-### ✍️ Random Dev Quote
+### 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
