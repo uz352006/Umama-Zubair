@@ -28,7 +28,7 @@ Hi there! I'm Umama Zubair — a Computer Science student with a heart full of c
 
 ---
 
-### 🔝 Top Contributed Repo
+### 
 ![Top Repo](https://github-contributor-stats.vercel.app/api?username=uz352006&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
