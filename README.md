@@ -1,21 +1,20 @@
 # 💫 About Me:
-## 👩‍💻 About Me :<br><br>🛠 **I’m currently working on:**  <br>Some university Projects<br>🤝 **I’m looking to collaborate on:**  <br>EdTech projects, accessibility-focused tools, and beginner-friendly open-source contributions.<br><br>🙌 **I’m looking for help with:**  <br>Programming logics , frontend frameworks (React & Tailwind CSS etc), and project structuring.<br><br>🌱 **I’m currently learning:**  <br>Core programming concepts in C, Object-Oriented Programming in C++, and web development (HTML, CSS, JavaScript).<br><br>💬 **Ask me about:**  <br>My journey as a first-year CS student, my motivation behind launching inclusive tech projects, or my experience with educational innovation.<br><br>⚡ **Fun fact:**  <br><br>My bookshelf grows faster than my GitHub — but I believe both tell stories in their own way.
+Hi there! I'm Umama Zubair — a first-semester Computer Science student with a heart full of curiosity and a bookshelf that somehow grows faster than my GitHub. I'm currently working on a personalized learning app designed to support children with autism and learning difficulties, inspired by a deep desire to blend technology with empathy. I love collaborating on education-focused projects and I'm always open to learning — whether it's debugging C code, designing frontends with a kawaii touch, or just building logic one step at a time. Beyond code, I’m passionate about books, baking, and board games. I believe that both stories and software have the power to change lives — and I hope to contribute to both, one line at a time.
 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=uz352006&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=uz352006&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uz352006&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=uz352006&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=uz352006&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=uz352006&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=uz352006&limit=5&theme=default&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=uz352006&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=uz352006&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->*
