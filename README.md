@@ -1,6 +1,25 @@
 # 💫 About Me:
-Hi there! I'm Umama Zubair, a Computer Science student with a heart full of curiosity and a bookshelf that somehow grows faster than my GitHub. I'm inspired by a deep desire to blend technology with empathy. I love collaborating on education-focused projects and I'm always open to learning — whether it's debugging C code, designing frontends with an aesthetic touch, or just building logic one step at a time. Beyond code, I’m passionate about books, baking, and board games. I believe that both, stories and software have the power to change lives — and I hope to contribute to both, one line at a time.
+I’m a Computer Science student who enjoys learning by building even if it means breaking things a few times first. I’m still growing my foundations, but I’m curious, consistent, and always open to exploring something new.
 
+💻 What I’m currently working on
+
+Improving my programming and problem-solving skills
+
+Experimenting with frontend design.
+
+Exploring ideas related to education and learning support tools
+
+🌱 What I enjoy
+
+Figuring out logic step by step
+
+Creating simple, clean interfaces
+
+Working on projects that make learning easier or more inclusive
+
+🎯 What I’m hoping to do
+
+Keep learning, keep building, and hopefully contribute to projects that actually help people.
 ---
 
 ## 🛠️ Languages and Tools:
