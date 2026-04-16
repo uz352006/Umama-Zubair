@@ -16,6 +16,3 @@ I’m a Computer Science student who enjoys learning by building, especially whe
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=uz352006&icon=2&color=11)](https://visitcount.itsvg.in)
-
