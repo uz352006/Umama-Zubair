@@ -2,9 +2,6 @@
 I’m a Computer Science student who enjoys learning by building, especially when it involves figuring things out step by step and improving through trial and error. I’m currently strengthening my core CS foundations while working on projects that help me connect theory with real systems.<br><br>💻 What I’m currently working on<br><br>Improving my understanding of Operating Systems, Databases, System Design, and Artificial Intelligence concepts through coursework and semester projects<br>Building projects using C, focusing on logic, concurrency, and system-level thinking<br>Exploring frontend development to create simple and clean user interfaces<br><br>🌱 What I enjoy<br><br>Breaking down complex problems into smaller, manageable logic<br>Designing minimal and functional interfaces<br>Working on projects related to learning systems and practical problem-solving<br><br>🎯 What I’m hoping to do<br>To keep growing as a developer by building consistent, meaningful projects that strengthen my fundamentals and contribute to real-world problem solving.
 
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umama3zubair@gmail.com) 
-
 ### 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
